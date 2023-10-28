@@ -1,0 +1,6 @@
+ItemName_FR = {
+	ItemName_Base.HolsterDouble1 = "Holster Double",
+	ItemName_Base.HolsterDouble2 = "Holster Double",
+	ItemName_Base.HolsterSimple1 = "Holster",
+	ItemName_Base.HolsterSimple2 = "Holster",
+}
