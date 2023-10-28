@@ -1,0 +1,4 @@
+Recipe_FR = {
+	Recipe_Craft_a_Double_Holster = "Fabriquer un Holster Double",
+	Recipe_Craft_a_Holster = "Fabriquer un Holster",
+}
